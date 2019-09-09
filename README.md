@@ -35,10 +35,20 @@ $ sequelize-auto -h localhost -d <Databasename> -u <User>-x <Password> -p <port>
 
 ## Support
 
-Reach out to me at one of the following places!
+Reach out to us at one of the following places!
 
-- [Website](www.melorbany.com) 
+Mazen
+
+- Website https://www.melorbany.com/
 - [Linkedin](https://www.linkedin.com/in/mazen-elorbany23/)
+
+
+Tariq
+
+- Website (https://www.tariqys.com/)
+- [Linkedin](https://www.linkedin.com/in/tariq-yousef-35b907177/)
+
+
 
 
 ---
